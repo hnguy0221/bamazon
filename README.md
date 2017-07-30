@@ -9,6 +9,7 @@ My name is Hai Nguyen. I created this application as part of the homework assign
 * Exit
 ![Image of Customer Main Menu]
 (assets/images/CustomerMainMenu.png)
+Format: ![Alt Text](url)
 When the user selects option, Purchase Products, a list of products will be displayed
 2. bamazonManager.js - This application 
 3. bamazonSupervisor.js - This application 
