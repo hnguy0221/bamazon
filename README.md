@@ -2,7 +2,7 @@
 
 Hello,
 
-My name is Hai Nguyen. I created this application as part of the homework assignment for the full stack web development class I am taking at the University of Denver. It is an application that works like you purchase stuff from the Amazon. It is written in Node JavaScript and it uses Inquirer to prompt the user for inputs and MySql database to store the data. It consists of three pieces:
+My name is Hai Nguyen. I created this application as part of the homework assignment for the Full Stack Web Development class I am taking at the University of Denver. It is an application that works like you purchase stuff from the Amazon. It is written in Node JavaScript and it uses Inquirer to prompt the user for inputs and MySql database to store the data. It consists of three pieces:
 
 1. bamazonCustomer.js - This application will take in orders from customers and update the store's inventory. When it is first run, it will display a menu of two options:
 * Purchase Products
