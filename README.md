@@ -8,8 +8,7 @@ My name is Hai Nguyen. I created this application as part of the homework assign
 * Purchase Products
 * Exit
 ![Image of Customer Main Menu]
-(assets/images/CustomerMainMenu.png)
-Format: ![Alt Text](url)
+(https://github.com/hnguy0221/bamazon/blob/master/assets/images/CustomerMainMeu.png)
 When the user selects option, Purchase Products, a list of products will be displayed
 2. bamazonManager.js - This application 
 3. bamazonSupervisor.js - This application 
