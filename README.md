@@ -7,8 +7,8 @@ My name is Hai Nguyen. I created this application as part of the homework assign
 1. bamazonCustomer.js - This application will take in orders from customers and update the store's inventory. When it is first run, it will display a menu of two options:
 * Purchase Products
 * Exit
-![GitHub Logo](CustomerMainMenu.png)
-Format: ![Alt Text](url)
+![Image of Customer Main Menu]
+(./assets/images/CustomerMainMenu.png)
 When the user selects option, Purchase Products, a list of products will be displayed
 2. bamazonManager.js - This application 
 3. bamazonSupervisor.js - This application 
