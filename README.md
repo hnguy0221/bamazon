@@ -10,13 +10,13 @@ My name is Hai Nguyen. I created this application as part of the homework assign
 		* Purchase Products
 		* Exit
 
-	* ![Image of Customer Main Menu](https://github.com/hnguy0221/bamazon/blob/master/assets/images/CustomerMainMeu.png)
+		![Image of Customer Main Menu](https://github.com/hnguy0221/bamazon/blob/master/assets/images/CustomerMainMeu.png)
 
 	* When the user selects option, Purchase Products, a list of products will be displayed. The user then can select whatever product they would like to purchase and how many. 
 
 	* The application then updates the store's inventory and prints out the total cost.
 
-	* ![Image of Customer Purchase Order](https://github.com/hnguy0221/bamazon/blob/master/assets/images/CustomerPurchaseOrder.png)
+		![Image of Customer Purchase Order](https://github.com/hnguy0221/bamazon/blob/master/assets/images/CustomerPurchaseOrder.png)
 
 	* If the user selects option, 'Exit', it will exit the program.
 
