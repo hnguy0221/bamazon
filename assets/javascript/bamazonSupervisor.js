@@ -29,9 +29,9 @@ var processSupervisor = function()
     inquirer.prompt({
         type: "list",
         message: "Menu options:",
-        choices: ["View Products Sales By Department", 
-                    "Create New Department", 
-                    "Exit"],
+        choices: ["View Product Sales By Department", 
+                "Create New Department", 
+                "Exit"],
         name: "option"
     }).then(function(response) {
         switch(response.option)
