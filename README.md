@@ -32,12 +32,25 @@ My name is Hai Nguyen. I created this application as part of the homework assign
     
     	* Add New Product
 
-  	* If a manager selects `View Products for Sale`, the app should list every available item: the item IDs, names, prices, and quantities.
+    	![Image of Manager Main Menu](https://github.com/hnguy0221/bamazon/blob/master/assets/images/ManagerMainMenu.png)
 
-  	* If a manager selects `View Low Inventory`, then it should list all items with an inventory count lower than five.
+  		* If a manager selects `View Products for Sale`, the app should list every available item: the item IDs, names, prices, and quantities.
 
-  	* If a manager selects `Add to Inventory`, your app should display a prompt that will let the manager "add more" of any item currently in the store.
+  		* If a manager selects `View Low Inventory`, then it should list all items with an inventory count lower than five.
+
+  		* If a manager selects `Add to Inventory`, your app should display a prompt that will let the manager "add more" of any item currently in the store.
 
 	
-  	* If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
-3. bamazonSupervisor.js - This application 
+  		* If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
+
+3. bamazonSupervisor.js - Running this application will list a set of menu options:
+
+	* View Product Sales by Department
+   
+	* Create New Department
+
+	![Image of Products Sales by Department](https://github.com/hnguy0221/bamazon/blob/master/assets/images/SupervisorMainMenu.png)
+
+	* When a supervisor selects `View Product Sales by Department`, the app should display a summarized table in their terminal/bash window.
+
+	![Image of Products Sales by Department](https://github.com/hnguy0221/bamazon/blob/master/assets/images/ProductsSalesByDepartment.png)
