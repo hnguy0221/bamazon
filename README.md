@@ -1,7 +1,5 @@
 # Bamazon Appliction
 
-Hello,
-
 My name is Hai Nguyen. I created this application as part of the homework assignment for the Full Stack Web Development class I am taking at the University of Denver. It is an application that works like you purchase stuff from the Amazon. It is written in Node JavaScript and it uses Inquirer to prompt the user for inputs, MySql database to store the data, and Console.Table to format output. It consists of four pieces: Customer, Manager, Supervisor, and the database.
 
 1. bamazon.sql (https://github.com/hnguy0221/bamazon/blob/master/bamazon.sql) - To run the application, please run the the SQL statements in this file to create the database and the tables.
