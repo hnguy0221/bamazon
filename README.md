@@ -2,9 +2,11 @@
 
 Hello,
 
-My name is Hai Nguyen. I created this application as part of the homework assignment for the Full Stack Web Development class I am taking at the University of Denver. It is an application that works like you purchase stuff from the Amazon. It is written in Node JavaScript and it uses Inquirer to prompt the user for inputs, MySql database to store the data, and Console.Table to format output. It consists of three pieces:
+My name is Hai Nguyen. I created this application as part of the homework assignment for the Full Stack Web Development class I am taking at the University of Denver. It is an application that works like you purchase stuff from the Amazon. It is written in Node JavaScript and it uses Inquirer to prompt the user for inputs, MySql database to store the data, and Console.Table to format output. It consists of four pieces: Customer, Manager, Supervisor, and the database.
 
-1. bamazonCustomer.js - This application will take in orders from customers and update the store's inventory. 
+1. bamazon.sql (https://github.com/hnguy0221/bamazon/blob/master/bamazon.sql) - To run the application, please run the the SQL statements in this file to create the database and the tables.
+
+2. bamazonCustomer.js (https://github.com/hnguy0221/bamazon/blob/master/assets/javascript/bamazonCustomer.js) - It is run as `node bamazonSupervisor.js` from the command line - This application will take in orders from customers and update the store's inventory. 
 
 	* When it is first run, it will display a menu of two options:
 		* Purchase Products
@@ -20,7 +22,7 @@ My name is Hai Nguyen. I created this application as part of the homework assign
 
 	* If the user selects option, 'Exit', it will exit the program.
 
-2. bamazonManager.js - Running this application will display a list of menu options:
+3. bamazonManager.js (https://github.com/hnguy0221/bamazon/blob/master/assets/javascript/bamazonManager.js) - It is run as `node bamazonSupervisor.js` from the command line - Running this application will display a list of menu options:
 
 	* List a set of menu options:
 
@@ -43,7 +45,7 @@ My name is Hai Nguyen. I created this application as part of the homework assign
 	
   		* If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
 
-3. bamazonSupervisor.js - Running this application will list a set of menu options:
+4. bamazonSupervisor.js (https://github.com/hnguy0221/bamazon/blob/master/assets/javascript/bamazonSupervisor.js) - It is run as `node bamazonSupervisor.js` from the command line - Running this application will list a set of menu options:
 
 	* View Product Sales by Department
    

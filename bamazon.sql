@@ -1,5 +1,5 @@
-/*DROP DATABASE IF EXISTS bamazon;
-create database bamazon;*/
+DROP DATABASE IF EXISTS bamazon;
+create database bamazon;
 use bamazon;
 
 create table products
