@@ -6,7 +6,7 @@ My name is Hai Nguyen. I created this application as part of the homework assign
 
 1. bamazon.sql (https://github.com/hnguy0221/bamazon/blob/master/bamazon.sql) - To run the application, please run the the SQL statements in this file to create the database and the tables.
 
-2. bamazonCustomer.js (https://github.com/hnguy0221/bamazon/blob/master/assets/javascript/bamazonCustomer.js) - It is run as `node bamazonSupervisor.js` from the command line - This application will take in orders from customers and update the store's inventory. 
+2. bamazonCustomer.js (https://github.com/hnguy0221/bamazon/blob/master/assets/javascript/bamazonCustomer.js) - It is run as `node bamazonCustomer.js` from the command line - This application will take in orders from customers and update the store's inventory. 
 
 	* When it is first run, it will display a menu of two options:
 		* Purchase Products
@@ -22,7 +22,7 @@ My name is Hai Nguyen. I created this application as part of the homework assign
 
 	* If the user selects option, 'Exit', it will exit the program.
 
-3. bamazonManager.js (https://github.com/hnguy0221/bamazon/blob/master/assets/javascript/bamazonManager.js) - It is run as `node bamazonSupervisor.js` from the command line - Running this application will display a list of menu options:
+3. bamazonManager.js (https://github.com/hnguy0221/bamazon/blob/master/assets/javascript/bamazonManager.js) - It is run as `node bamazonManager.js` from the command line - Running this application will display a list of menu options:
 
 	* List a set of menu options:
 
